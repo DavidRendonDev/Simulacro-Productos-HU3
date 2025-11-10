@@ -1,0 +1,17 @@
+/home/ders/Escritorio/SIMULACRO_HU3/products.Application/bin/Debug/net9.0/products.Application.deps.json
+/home/ders/Escritorio/SIMULACRO_HU3/products.Application/bin/Debug/net9.0/products.Application.dll
+/home/ders/Escritorio/SIMULACRO_HU3/products.Application/bin/Debug/net9.0/products.Application.pdb
+/home/ders/Escritorio/SIMULACRO_HU3/products.Application/bin/Debug/net9.0/products.Domain.dll
+/home/ders/Escritorio/SIMULACRO_HU3/products.Application/bin/Debug/net9.0/products.Domain.pdb
+/home/ders/Escritorio/SIMULACRO_HU3/products.Application/obj/Debug/net9.0/products.Application.csproj.AssemblyReference.cache
+/home/ders/Escritorio/SIMULACRO_HU3/products.Application/obj/Debug/net9.0/products.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/ders/Escritorio/SIMULACRO_HU3/products.Application/obj/Debug/net9.0/products.Application.AssemblyInfoInputs.cache
+/home/ders/Escritorio/SIMULACRO_HU3/products.Application/obj/Debug/net9.0/products.Application.AssemblyInfo.cs
+/home/ders/Escritorio/SIMULACRO_HU3/products.Application/obj/Debug/net9.0/products.Application.csproj.CoreCompileInputs.cache
+/home/ders/Escritorio/SIMULACRO_HU3/products.Application/obj/Debug/net9.0/products.CDF8E2A9.Up2Date
+/home/ders/Escritorio/SIMULACRO_HU3/products.Application/obj/Debug/net9.0/products.Application.dll
+/home/ders/Escritorio/SIMULACRO_HU3/products.Application/obj/Debug/net9.0/refint/products.Application.dll
+/home/ders/Escritorio/SIMULACRO_HU3/products.Application/obj/Debug/net9.0/products.Application.pdb
+/home/ders/Escritorio/SIMULACRO_HU3/products.Application/obj/Debug/net9.0/ref/products.Application.dll
+/home/ders/Escritorio/SIMULACRO_HU3/products.Application/bin/Debug/net9.0/products.Application.runtimeconfig.json
+/home/ders/Escritorio/SIMULACRO_HU3/products.Application/obj/Debug/net9.0/products.Application.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+/home/ders/Escritorio/SIMULACRO_HU3/products.Domain/bin/Debug/net9.0/products.Domain.deps.json
+/home/ders/Escritorio/SIMULACRO_HU3/products.Domain/bin/Debug/net9.0/products.Domain.dll
+/home/ders/Escritorio/SIMULACRO_HU3/products.Domain/bin/Debug/net9.0/products.Domain.pdb
+/home/ders/Escritorio/SIMULACRO_HU3/products.Domain/obj/Debug/net9.0/products.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/ders/Escritorio/SIMULACRO_HU3/products.Domain/obj/Debug/net9.0/products.Domain.AssemblyInfoInputs.cache
+/home/ders/Escritorio/SIMULACRO_HU3/products.Domain/obj/Debug/net9.0/products.Domain.AssemblyInfo.cs
+/home/ders/Escritorio/SIMULACRO_HU3/products.Domain/obj/Debug/net9.0/products.Domain.csproj.CoreCompileInputs.cache
+/home/ders/Escritorio/SIMULACRO_HU3/products.Domain/obj/Debug/net9.0/products.Domain.dll
+/home/ders/Escritorio/SIMULACRO_HU3/products.Domain/obj/Debug/net9.0/refint/products.Domain.dll
+/home/ders/Escritorio/SIMULACRO_HU3/products.Domain/obj/Debug/net9.0/products.Domain.pdb
+/home/ders/Escritorio/SIMULACRO_HU3/products.Domain/obj/Debug/net9.0/ref/products.Domain.dll
+/home/ders/Escritorio/SIMULACRO_HU3/products.Domain/bin/Debug/net9.0/products.Domain.runtimeconfig.json
+/home/ders/Escritorio/SIMULACRO_HU3/products.Domain/obj/Debug/net9.0/products.Domain.csproj.AssemblyReference.cache
+/home/ders/Escritorio/SIMULACRO_HU3/products.Domain/obj/Debug/net9.0/products.Domain.genruntimeconfig.cache
