@@ -12,3 +12,4 @@
 /home/ders/Escritorio/SIMULACRO_HU3/products.Domain/bin/Debug/net9.0/products.Domain.runtimeconfig.json
 /home/ders/Escritorio/SIMULACRO_HU3/products.Domain/obj/Debug/net9.0/products.Domain.csproj.AssemblyReference.cache
 /home/ders/Escritorio/SIMULACRO_HU3/products.Domain/obj/Debug/net9.0/products.Domain.genruntimeconfig.cache
+/home/ders/Escritorio/SIMULACRO_HU3/products.Domain/obj/Debug/net9.0/products.Domain.sourcelink.json

@@ -139,3 +139,16 @@
 /home/ders/Escritorio/SIMULACRO_HU3/products.Api/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 /home/ders/Escritorio/SIMULACRO_HU3/products.Api/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 /home/ders/Escritorio/SIMULACRO_HU3/products.Api/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/ders/Escritorio/SIMULACRO_HU3/products.Api/bin/Debug/net9.0/BCrypt.Net-Next.dll
+/home/ders/Escritorio/SIMULACRO_HU3/products.Api/bin/Debug/net9.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/home/ders/Escritorio/SIMULACRO_HU3/products.Api/bin/Debug/net9.0/Microsoft.IdentityModel.Abstractions.dll
+/home/ders/Escritorio/SIMULACRO_HU3/products.Api/bin/Debug/net9.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/ders/Escritorio/SIMULACRO_HU3/products.Api/bin/Debug/net9.0/Microsoft.IdentityModel.Logging.dll
+/home/ders/Escritorio/SIMULACRO_HU3/products.Api/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.dll
+/home/ders/Escritorio/SIMULACRO_HU3/products.Api/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/ders/Escritorio/SIMULACRO_HU3/products.Api/bin/Debug/net9.0/Microsoft.IdentityModel.Tokens.dll
+/home/ders/Escritorio/SIMULACRO_HU3/products.Api/bin/Debug/net9.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/ders/Escritorio/SIMULACRO_HU3/products.Api/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/ders/Escritorio/SIMULACRO_HU3/products.Api/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/ders/Escritorio/SIMULACRO_HU3/products.Api/bin/Debug/net9.0/System.IdentityModel.Tokens.Jwt.dll
+/home/ders/Escritorio/SIMULACRO_HU3/products.Api/obj/Debug/net9.0/products.Api.sourcelink.json

@@ -15,3 +15,4 @@
 /home/ders/Escritorio/SIMULACRO_HU3/products.Application/obj/Debug/net9.0/ref/products.Application.dll
 /home/ders/Escritorio/SIMULACRO_HU3/products.Application/bin/Debug/net9.0/products.Application.runtimeconfig.json
 /home/ders/Escritorio/SIMULACRO_HU3/products.Application/obj/Debug/net9.0/products.Application.genruntimeconfig.cache
+/home/ders/Escritorio/SIMULACRO_HU3/products.Application/obj/Debug/net9.0/products.Application.sourcelink.json

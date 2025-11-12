@@ -43,6 +43,25 @@ builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
 
 builder.Services.AddAuthorization();
 
+// 🧩 4️⃣ CONFIGURACIÓN DE CORS (muy importante)
+var allowedOrigins = "_allowedOrigins";
+
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy(name: allowedOrigins, policy =>
+    {
+        policy
+            .WithOrigins(
+                "http://localhost:5173", // React local
+                "https://simulacro-productos-hu3.onrender.com", // Render API
+                "https://tu-frontend-en-render.com" // si luego subes tu frontend
+            )
+            .AllowAnyHeader()
+            .AllowAnyMethod()
+            .AllowCredentials();
+    });
+}); 
+
 // Add services to the container.
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
 builder.Services.AddOpenApi();

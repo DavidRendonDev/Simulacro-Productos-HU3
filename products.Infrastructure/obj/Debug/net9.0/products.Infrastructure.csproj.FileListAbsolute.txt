@@ -15,3 +15,4 @@
 /home/ders/Escritorio/SIMULACRO_HU3/products.Infrastructure/obj/Debug/net9.0/products.Infrastructure.pdb
 /home/ders/Escritorio/SIMULACRO_HU3/products.Infrastructure/obj/Debug/net9.0/products.Infrastructure.genruntimeconfig.cache
 /home/ders/Escritorio/SIMULACRO_HU3/products.Infrastructure/obj/Debug/net9.0/ref/products.Infrastructure.dll
+/home/ders/Escritorio/SIMULACRO_HU3/products.Infrastructure/obj/Debug/net9.0/products.Infrastructure.sourcelink.json
